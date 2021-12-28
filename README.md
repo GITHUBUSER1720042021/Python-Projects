@@ -5,6 +5,7 @@ I mostly know how to GUI-based python stuff! That's a lot easier. Btw, here is t
 I use that python package, because it's easy to understand and learn.
 
 To install this package, just do a simple:
+## Installation
 ```
 pip install dearpygui
 or
